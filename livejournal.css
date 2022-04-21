@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+body {
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 18px;
+   font-weight: 300;
+   line-height: 1.5;
+}
+a {
+  color: #c680e1;
+}
+a:hover {
+  color: #d275c7;
+}
+.j-e-nav-item.j-e-nav-item-likus .svgicon {
+  width: 17px!important;
+  stroke-width: 0;
+  fill: #c680e1;
+}
